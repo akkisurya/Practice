@@ -1,4 +1,4 @@
-package main;
+package main.recursion;
 
 import recursion.Factorial;
 
