@@ -4,7 +4,7 @@ import recursion.TowerOfHanoi;
 /**
  * Created by akash on 1/6/2017.
  */
-public class Main {
+public class MainTowerOfHanoi {
     public static void main(String[] args) {
         Stack<Integer> src = new Stack<>(100);
         src.push(5);
